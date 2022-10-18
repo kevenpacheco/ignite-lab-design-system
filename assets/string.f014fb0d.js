@@ -1,0 +1,2 @@
+var i=Object.defineProperty;var e=(t,r)=>i(t,"name",{value:r,configurable:!0});import{p as n}from"./iframe.adcf8b4d.js";var s=n;s({target:"Number",stat:!0},{isNaN:e(function(r){return r!=r},"isNaN")});var f=e(function(r){if(!r)return"";if(typeof r=="string")return r;throw new Error("Description: expected string, got: ".concat(JSON.stringify(r)))},"str");export{f as s};
+//# sourceMappingURL=string.f014fb0d.js.map
