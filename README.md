@@ -17,7 +17,7 @@ This is the result of Ignite Lab, a Rocketseat event whose theme was the creatio
 
 ### Screenshot
 
-![](./src/assets/images/screenshot.png)
+![](./src/assets/screenshot.png)
 
 ### About Project
 
