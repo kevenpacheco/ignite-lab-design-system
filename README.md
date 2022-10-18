@@ -42,6 +42,7 @@ Storybook was used as a tool for documenting application components. With it, it
 - [Radix-UI](https://www.radix-ui.com/)
 - [Storybook](https://storybook.js.org/)
 - [Figma](https://www.figma.com/)
+- [Jest](https://jestjs.io/pt-BR/)
 
 ### What I learned
 
